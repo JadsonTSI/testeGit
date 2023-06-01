@@ -2,7 +2,6 @@ Olá esse projeto ensina você usar o Git
 
 ´´´js
 git init
-
 ´´´
 
 ´´ git add readme.md
