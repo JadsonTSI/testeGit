@@ -1,8 +1,8 @@
 Olá esse projeto ensina você usar o Git
 
-´´´js
+```bash
 git init
-´´´
+```
 
 ´´ git add readme.md
 
