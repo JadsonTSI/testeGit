@@ -8,12 +8,22 @@ git init
 git add readme.md
 ```
 
-´´ git status 
+```bash
+git status 
+```
 
-´´ git commit -m "primeiro commit"
+```bash
+git commit -m "primeiro commit"
+```
 
-´´ git status
+```bash
+git status
+```
 
-´´git branch -M 'main'
+```bash
+git branch -M 'main'
+```
 
-´´ git remote add origin https://github.com/JadsonTSI/testeGit.git
+```bash
+git remote add origin https://github.com/JadsonTSI/testeGit.git
+```
