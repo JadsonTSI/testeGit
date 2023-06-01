@@ -4,7 +4,9 @@ Olá esse projeto ensina você usar o Git
 git init
 ```
 
-´´ git add readme.md
+```bash
+git add readme.md
+```
 
 ´´ git status 
 
