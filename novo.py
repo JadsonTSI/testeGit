@@ -1,0 +1,1 @@
+novo = input("Digite qualquer coisa: ")
